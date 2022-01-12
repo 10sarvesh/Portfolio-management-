@@ -1,1 +1,1 @@
-# Portfolio-management-
+I have done a project on portfolio management by taking stock prices of 4 companies each belonging to different sector for a period of 1 year. All the analysis part is done Microsoft Excel. A PDF document is created having the screenshot of all findings along with the necessary interpretations.
